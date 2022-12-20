@@ -42,3 +42,5 @@ with open('input.txt') as f:
         if is_valid(line):
             count_valid += 1
     print(count_valid)
+
+# solution obtained - 645
